@@ -198,7 +198,6 @@ https://bryan-david-molina-portafoliovercel-3ezeyls2v.vercel.app/
 - [ ] Datos personales actualizados.
 - [ ] Fotografía profesional.
 - [ ] Cuenta de GitHub actualizada.
-- [ ] Perfil de LinkedIn actualizado.
 - [ ] Formación académica actualizada.
 - [ ] Mínimo tres proyectos propios o académicos.
 - [ ] Validación ortográfica completa.
